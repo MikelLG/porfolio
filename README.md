@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# MikelLlobera
+Mikel Llobera's Portfolio Website
 
 
 
