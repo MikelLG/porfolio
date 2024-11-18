@@ -1,2 +1,6 @@
-# porfolio
-This is repo to host a website for my portfolio.
+# JohnDoe
+A Responsive Free One Page Portfolio Website template
+
+
+
+
